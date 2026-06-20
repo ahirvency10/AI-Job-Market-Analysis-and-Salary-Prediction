@@ -31,4 +31,5 @@ This project demonstrates how data analysis and machine learning techniques can 
 
 ## 🔹 How to Run
 pip install -r requirements.txt
+
 jupyter notebook
