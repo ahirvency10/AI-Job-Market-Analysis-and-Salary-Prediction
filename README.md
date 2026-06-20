@@ -30,6 +30,6 @@ Built a machine learning model to predict expected salaries based on job-related
 This project demonstrates how data analysis and machine learning techniques can be used to understand AI job market trends and predict salary patterns, helping in better career and workforce insights.
 
 ## 🔹 How to Run
+```bash
 pip install -r requirements.txt
-
 jupyter notebook
